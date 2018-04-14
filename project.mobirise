@@ -1,0 +1,906 @@
+{
+  "settings": {
+    "name": "A Standard of Excellence",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2c2c2c",
+        "#252525"
+      ]
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-128x85.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 30,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "About Me",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#7ac673",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Get access to discounts, sales, and employment information by subscribing to my newsletter.",
+          "form": {
+            "action": "aloveforhorsestoo@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#7c706b"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4",
+          "_params": {
+            "color": "#2969b0",
+            "hamburgerColor": "#7c706b",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-191x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For Want of a Résumé: Job Search Preparation Services</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#pricing-table1-5\">PRICE RANGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#form1-a\">CONTACT ME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html#content1-r\">ARTICLE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html#testimonials1-n\">TESTIMONIALS</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-t",
+          "_params": {
+            "imageSize": "25",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#7c706b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p4091337-2-1062x1167.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "center",
+          "title": "ABOUT ME",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Hello, my name is Chandra Lawson. I have been writing résumés and CVs for more than 10 years for those in healthcare, social work, retail, and commercial airlines, to name a few. In the private and public sectors, I worked as a medical secretary and medical administrative assistant. My professional training includes JIST/Farr employment/job search seminars and résumé writing/grammar workshops, as well as, learning from online forums with human resource managers and colleagues. My work is published in \"Expert Résumés for Healthcare Careers\", by JIST Works, ©2004.</p><p>\n</p><div>\n</div><div>\n</div><div>\n</div><div>Currently, I provide service exclusively to those in the healthcare field, specifically in Physical Medicine and Rehabilitation.</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#9365b8",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Contact Me",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#553982"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8",
+          "_params": {
+            "color": "#2c82c9",
+            "hamburgerColor": "#553982",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-191x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "inde.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-t\">ABOUT ME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#pricing-table1-5\">PRICE RANGE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html#content1-r\">ARTICLE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html#testimonials1-n\">TESTIMONIALS</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "aloveforhorsestoo@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#9365b8",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Pricing Breakdown",
+        "meta_descr": "Prices",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#553982"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "color": "#2c82c9",
+            "hamburgerColor": "#553982",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-191x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "inde.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-t\">ABOUT ME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#pricing-table1-5\">PRICE RANGE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html#content1-r\">ARTICLE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html#testimonials1-n\">TESTIMONIALS</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "18px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "form2-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Get access to discounts, sales, and employment information by subscribing to my newsletter.",
+          "form": {
+            "action": "aloveforhorsestoo@yahoo.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SUBSCRIBE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_styles": {
+            "SUP": {
+              "color": "#2969b0"
+            },
+            "SPAN": {
+              "color": "#2969b0",
+              "font-size": "22px"
+            },
+            "H3": {
+              "color": "#2969b0",
+              "font-size": "19px"
+            },
+            ".mbr-plan__details UL": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "pricing-table1-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "orange",
+            "showButtons": false,
+            "secondType": "green",
+            "thirdType": "orange",
+            "fourthType": "green",
+            "fifthType": "orange"
+          },
+          "title1": "PHYSICIAN",
+          "currency1": "",
+          "price1": "$75 - $150",
+          "period1": "",
+          "list1": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes CV, reference page, and one cover letter</b></li><li><b>Additional cover letters are $20 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "NURSE",
+          "currency2": "",
+          "price2": "$50 - $125",
+          "period2": "",
+          "list2": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $15 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "THERAPIST",
+          "currency3": "",
+          "price3": "$75 - $150",
+          "period3": "",
+          "list3": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $20 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "THERAPY ASSISTANT",
+          "currency4": "",
+          "price4": "$50 - $125",
+          "period4": "",
+          "list4": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $15 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "MEDICAL ASSISTANT<br>HOME HEALTH AIDE",
+          "currency5": "",
+          "price5": "$25 - $35",
+          "period5": "",
+          "list5": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $10 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#9365b8",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "counters": false,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Testimonials",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c82c9"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#553982"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-l",
+          "_params": {
+            "color": "#2c82c9",
+            "hamburgerColor": "#553982",
+            "transparent": false,
+            "sticky": false,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-191x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "inde.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-t\">ABOUT ME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#pricing-table1-5\">PRICE RANGE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html#content1-r\">ARTICLE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html#testimonials1-n\">TESTIMONIALS</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<div>\"Every interviewer remarked on the professionalism of my résumé. All of my qualifications are listed right at the top of the résumé; and even though it is two pages, it is to the point. The information that needs to be in it, is right there.\"</div>",
+              "authorName": "Cherie J.",
+              "authorBio": "Ohio"
+            },
+            {
+              "text": "<div>\"I am a professional pilot--who was laid off--then entered into a job search with a great deal of stiff competition after the terrorist attacks of 9/11. I needed every little bit of assistance to get an edge in my job search. But I always thought professional résumé services were only for high-level executives. Now I know that any person, regardless of job title, needs to make the best first impression he/she can. Once I received my résumé prepared by Chandra, I knew that I was sending the most “crisp,” “reader-friendly” document that I could to make a good first impression. It’s VERY important to have all the “inside” info one can put to good use by allowing a professional to provide documents that get attention, job search tips, and interviewing techniques. I would definitely recommend a trained professional to a friend or colleague.</div>",
+              "authorName": "M. L.<br>Illinois",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>\"I contacted For Want of a Résumé (formerly, A Standard of Excellence) because I wanted a professional résumé. I believe it was instrumental in my obtaining an interview; and I was selected for the position for which I applied.\"</p>",
+              "authorName": "",
+              "authorBio": "<b>E.I.H.</b><br>Ohio"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__author-bio": {
+              "color": "#28324e",
+              "font-size": "14px"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#28324e"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<div>\"Every interviewer remarked on the professionalism of my résumé. All of my qualifications are listed right at the top of the résumé; and even though it is two pages, it is to the point. The information that needs to be in it, is right there.\"</div>",
+              "authorName": "Cherie J.",
+              "authorBio": "Ohio"
+            },
+            {
+              "text": "<div>\"I am a professional pilot--who was laid off--then entered into a job search with a great deal of stiff competition after the terrorist attacks of 9/11. I needed every little bit of assistance to get an edge in my job search. But I always thought professional résumé services were only for high-level executives. Now I know that any person, regardless of job title, needs to make the best first impression he/she can. Once I received my résumé prepared by Chandra, I knew that I was sending the most “crisp,” “reader-friendly” document that I could to make a good first impression. It’s VERY important to have all the “inside” info one can put to good use by allowing a professional to provide documents that get attention, job search tips, and interviewing techniques. I would definitely recommend a trained professional to a friend or colleague.</div>",
+              "authorName": "M. L.<br>Illinois",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>\"I contacted For Want of a Résumé (formerly, A Standard of Excellence) because I wanted a professional résumé. I believe it was instrumental in my obtaining an interview; and I was selected for the position for which I applied.\"</p>",
+              "authorName": "",
+              "authorBio": "<b>E.I.H.</b><br>Ohio"
+            }
+          ],
+          "_anchor": "testimonials1-n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "WHAT MY FANTASTIC CLIENTS THINK"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Article",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#7c706b"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "14px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-p",
+          "_params": {
+            "color": "#2969b0",
+            "hamburgerColor": "#7c706b",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-191x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">For Want of a Résumé: Job Search Preparation Services</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html#pricing-table1-5\">PRICE RANGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html#form1-a\">CONTACT ME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html#content1-r\">ARTICLE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html#testimonials1-n\">TESTIMONIALS</a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "content1-r",
+          "text": "<p><b>THE IMPORTANCE OF KEEPING A WORK JOURNAL</b></p><p><b>September 13, 2017</b></p><p><b><br></b></p><p>Keeping a journal of your work history is important for several reasons and doing so can even aid in your career success. Let's take a look at how a journal can enhance you and your career.\n</p><p></p><p>\nFirst, it gives you the opportunity to see all that you have accomplished, as well as, your five- and 10-year goals.</p><p> Second, logging achievements, ideas, and employer/peer reviews and advice will help you prepare a short presentation when it comes time to ask for a raise or apply for a position with greater responsibility.</p><p> If you approached your supervisor with an idea that created an efficient work space or improved upon a process, jot it down. And, the fact that you approached your supervisor shows you are not intimated, you are confident; and proposing an idea shows initiative and creativity – two factors that make a great employee. Suppose a customer commented on how well you helped them (maybe they won't say anything to your supervisor or write the company about you), but YOU can. Jot it down.</p><p> Third, it will provide important information that can be added to your résumé. You'll save a lot of time for yourself and the writer by keeping these notes. Even if you've already been working for years, it's never too late to start one, adding the previous 10 years' worth of information.\n</p><p></p><p>\nStart by creating a manila folder or a one-inch, three-ring binder with sections and tabs. That way, each category is separate; you can access each one in a couple of seconds. Keep a regular notebook at your work desk to jot down notes quickly then take it home, when you have a few to list, and transfer your notes to the original journal.</p><p></p><p>\nKeep the original updated frequently. If you are laid off, or the company closes, you won't be scrambling to gather all that information; your time will be better spent writing your résumé or giving the information to a professional to write, while you search for another job.\n</p><p></p><p>\nSo many times, clients have come to me with sloppy notes, and 99% of the time, not enough information. After they complete the questionnaire, the telephone interview reveals even more experience or accomplishments that they neglected to list on the questionnaire – information that had just slipped their mind. If they had kept a journal, all their information would have been available.\n</p><p></p><p>\nAnother reason to keep notes, is to review your accomplishments and ideas at a time when you're feeling a bit low or unappreciated; doing so will provide you with the confidence you need to keep going. Sometimes a job can be overwhelming and you feel as though you are sucked into it's vortex. You lose sight of the fact that you are a valuable employee and you simply need to be reminded.\n</p><p></p><p>\nRemember, too, with technological advances for hiring managers, you may literally compete with thousands of applicants. It's imperative to have the best information about your knowledge and skills available at a moment's notice, whether you hire a professional, are networking, or have your eye on a promotion.\n</p><p></p><p>\nIt's your life, your career, your money, and your happiness...so don't delay! Get started on being even better at what you do and let your work journal help to direct your success. Your documented experience can propel you to an even better future in your career.\n</p><p></p><p>\nBest wishes in your endeavors!</p><p>\n</p><p></p><p>\nChandra C. Lawson\n</p><p>For Want of a Resume</p><p>astandardofexcellence@yahoo.com\n</p><p>(740) 701-4150\n</p><p>© 2018</p>"
+        }
+      ]
+    }
+  }
+}
