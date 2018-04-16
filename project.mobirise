@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "A Standard of Excellence",
+    "name": "For Want of a Résumé",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -11,12 +11,12 @@
         "#252525"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/tampa-bay-blue-hue-128x85.png",
+    "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "3.12.1",
     "uniqCompNum": 30,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "google-analytics": ""
@@ -39,17 +39,17 @@
           "_name": "form2",
           "_anchor": "form2-o",
           "_params": {
+            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#7ac673",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7ac673",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Get access to discounts, sales, and employment information by subscribing to my newsletter.",
           "form": {
@@ -96,14 +96,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4",
           "_params": {
-            "color": "#2969b0",
-            "hamburgerColor": "#7c706b",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2969b0",
+            "hamburgerColor": "#7c706b"
           },
           "logo": {
             "image": {
@@ -146,26 +146,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-t",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "25",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#7c706b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -192,7 +192,7 @@
           "headerAlign": "center",
           "title": "ABOUT ME",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Hello, my name is Chandra Lawson. I have been writing résumés and CVs for more than 10 years for those in healthcare, social work, retail, and commercial airlines, to name a few. In the private and public sectors, I worked as a medical secretary and medical administrative assistant. My professional training includes JIST/Farr employment/job search seminars and résumé writing/grammar workshops, as well as, learning from online forums with human resource managers and colleagues. My work is published in \"Expert Résumés for Healthcare Careers\", by JIST Works, ©2004.</p><p>\n</p><div>\n</div><div>\n</div><div>\n</div><div>Currently, I provide service exclusively to those in the healthcare field, specifically in Physical Medicine and Rehabilitation.</div><p></p>",
+          "text": "<p>Hello, my name is Chandra Lawson and I have been writing résumés and CVs for more than ten years. In the private and public sectors, I worked as a medical secretary and medical administrative assistant. My professional training includes JIST-Farr employment and job search seminars and résumé writing/grammar workshops, as well as, learning from online forums with human resource managers and colleagues. My work is published in \"Expert Résumés for Healthcare Careers\", by JIST Works, ©2004.</p><p>\n</p><div>\n</div><div>\n</div><div>\n</div><div>Currently, I provide service exclusively to those in the healthcare field; specifically, Physical Medicine and Rehabilitation.</div><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -202,17 +202,17 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-k",
           "_params": {
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#9365b8",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#9365b8",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "overlayOpacity": 0.5,
             "counters": false,
             "facebook": true,
             "google": true,
@@ -235,13 +235,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
@@ -278,14 +278,14 @@
           "_name": "menu",
           "_anchor": "menu-8",
           "_params": {
-            "color": "#2c82c9",
-            "hamburgerColor": "#553982",
-            "transparent": false,
-            "sticky": false,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c82c9",
+            "hamburgerColor": "#553982"
           },
           "logo": {
             "image": {
@@ -323,13 +323,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         },
@@ -340,17 +340,17 @@
           "_name": "form1",
           "_anchor": "form1-a",
           "_params": {
+            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#c1c1c1",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
           "form": {
@@ -389,17 +389,17 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-c",
           "_params": {
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#9365b8",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#9365b8",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "overlayOpacity": 0.5,
             "counters": false,
             "facebook": true,
             "google": true,
@@ -440,14 +440,14 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "color": "#2c82c9",
-            "hamburgerColor": "#553982",
-            "transparent": false,
-            "sticky": false,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c82c9",
+            "hamburgerColor": "#553982"
           },
           "logo": {
             "image": {
@@ -484,17 +484,17 @@
           },
           "_anchor": "form2-b",
           "_params": {
+            "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Get access to discounts, sales, and employment information by subscribing to my newsletter.",
           "form": {
@@ -534,48 +534,48 @@
           },
           "_anchor": "pricing-table1-5",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "firstType": "orange",
-            "showButtons": false,
             "secondType": "green",
             "thirdType": "orange",
             "fourthType": "green",
-            "fifthType": "orange"
+            "fifthType": "orange",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title1": "PHYSICIAN",
           "currency1": "",
-          "price1": "$75 - $150",
+          "price1": "$99 - $179",
           "period1": "",
           "list1": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes CV, reference page, and one cover letter</b></li><li><b>Additional cover letters are $20 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "title2": "NURSE",
           "currency2": "",
-          "price2": "$50 - $125",
+          "price2": "$49 - $129",
           "period2": "",
           "list2": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $15 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "title3": "THERAPIST",
           "currency3": "",
-          "price3": "$75 - $150",
+          "price3": "$79 - $149",
           "period3": "",
           "list3": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $20 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "title4": "THERAPY ASSISTANT",
           "currency4": "",
-          "price4": "$50 - $125",
+          "price4": "$49 - $129",
           "period4": "",
           "list4": "<ul><li><b>EXPERIENCE</b></li><li><b>Fewer than 10 years</b></li><li><b>10 - 25 years</b></li><li><b>More than 25 years</b></li><li><b>Pre-arranged deadline</b></li><li><b>Includes resume, reference page, and one cover letter</b></li><li><b>Additional cover letters are $15 each</b></li><li><b>First edit (up to one year) is Free</b></li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
@@ -593,17 +593,17 @@
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-6",
           "_params": {
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#9365b8",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#9365b8",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
+            "overlayOpacity": 0.5,
             "counters": false,
             "facebook": true,
             "google": true,
@@ -626,13 +626,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         }
@@ -669,14 +669,14 @@
           "_name": "menu",
           "_anchor": "menu-l",
           "_params": {
-            "color": "#2c82c9",
-            "hamburgerColor": "#553982",
-            "transparent": false,
-            "sticky": false,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c82c9",
+            "hamburgerColor": "#553982"
           },
           "logo": {
             "image": {
@@ -714,13 +714,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         },
@@ -757,37 +757,37 @@
           },
           "testimonial": [
             {
-              "text": "<div>\"Every interviewer remarked on the professionalism of my résumé. All of my qualifications are listed right at the top of the résumé; and even though it is two pages, it is to the point. The information that needs to be in it, is right there.\"</div>",
               "authorName": "Cherie J.",
-              "authorBio": "Ohio"
+              "authorBio": "Ohio",
+              "text": "<div>\"Every interviewer remarked on the professionalism of my résumé. All of my qualifications are listed right at the top of the résumé; and even though it is two pages, it is to the point. The information that needs to be in it, is right there.\"</div>"
             },
             {
-              "text": "<div>\"I am a professional pilot--who was laid off--then entered into a job search with a great deal of stiff competition after the terrorist attacks of 9/11. I needed every little bit of assistance to get an edge in my job search. But I always thought professional résumé services were only for high-level executives. Now I know that any person, regardless of job title, needs to make the best first impression he/she can. Once I received my résumé prepared by Chandra, I knew that I was sending the most “crisp,” “reader-friendly” document that I could to make a good first impression. It’s VERY important to have all the “inside” info one can put to good use by allowing a professional to provide documents that get attention, job search tips, and interviewing techniques. I would definitely recommend a trained professional to a friend or colleague.</div>",
               "authorName": "M. L.<br>Illinois",
-              "authorBio": ""
+              "authorBio": "",
+              "text": "<div>\"I am a professional pilot--who was laid off--then entered into a job search with a great deal of stiff competition after the terrorist attacks of 9/11. I needed every little bit of assistance to get an edge in my job search. But I always thought professional résumé services were only for high-level executives. Now I know that any person, regardless of job title, needs to make the best first impression he/she can. Once I received my résumé prepared by Chandra, I knew that I was sending the most “crisp,” “reader-friendly” document that I could to make a good first impression. It’s VERY important to have all the “inside” info one can put to good use by allowing a professional to provide documents that get attention, job search tips, and interviewing techniques. I would definitely recommend a trained professional to a friend or colleague.</div>"
             },
             {
-              "text": "<p>\"I contacted For Want of a Résumé (formerly, A Standard of Excellence) because I wanted a professional résumé. I believe it was instrumental in my obtaining an interview; and I was selected for the position for which I applied.\"</p>",
               "authorName": "",
-              "authorBio": "<b>E.I.H.</b><br>Ohio"
+              "authorBio": "<b>E.I.H.</b><br>Ohio",
+              "text": "<p>\"I contacted For Want of a Résumé (formerly, A Standard of Excellence) because I wanted a professional résumé. I believe it was instrumental in my obtaining an interview; and I was selected for the position for which I applied.\"</p>"
             }
           ],
           "_anchor": "testimonials1-n",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": 3,
+            "showTitle": true,
             "showName": true,
             "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "header": "WHAT MY FANTASTIC CLIENTS THINK"
         }
@@ -830,14 +830,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-p",
           "_params": {
-            "color": "#2969b0",
-            "hamburgerColor": "#7c706b",
-            "transparent": false,
-            "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2969b0",
+            "hamburgerColor": "#7c706b"
           },
           "logo": {
             "image": {
@@ -875,13 +875,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright&nbsp;©&nbsp;2018 For Want of a Résumé &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-black\" href=\"https://mobirise.com/\">Privacy Policy</a>"
         },
